@@ -2,7 +2,7 @@
 
 Uma aplicação moderna de gerenciamento de tarefas desenvolvida com **Next.js**, **TypeScript** e **TailwindCSS**. Este projeto implementa um CRUD completo com interface responsiva e experiência de usuário otimizada.
 
-![To-Do List Preview](https://to-do-list-react-next-js-pi.vercel.app/)
+[To-Do List Preview](https://to-do-list-react-next-js-pi.vercel.app/)
 
 ## 🚀 Funcionalidades
 
