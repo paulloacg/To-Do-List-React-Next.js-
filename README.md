@@ -2,7 +2,7 @@
 
 Uma aplicação moderna de gerenciamento de tarefas desenvolvida com **Next.js**, **TypeScript** e **TailwindCSS**. Este projeto implementa um CRUD completo com interface responsiva e experiência de usuário otimizada.
 
-![To-Do List Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=To-Do+List+App)
+![To-Do List Preview](https://to-do-list-react-next-js-pi.vercel.app/)
 
 ## 🚀 Funcionalidades
 
@@ -210,7 +210,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Paulo Gomes**
-- GitHub: [@paulloach](https://github.com/paulloacg)
+- GitHub: [@paulloacg](https://github.com/paulloacg)
 - LinkedIn: [Paulo Gomes](https://www.linkedin.com/in/paulo-gomes-14165b33a/)
 - Email: pauloacg2.0@gmail.com
 
