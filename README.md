@@ -209,10 +209,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+**Paulo Gomes**
+- GitHub: [@paulloach](https://github.com/paulloacg)
+- LinkedIn: [Paulo Gomes](https://www.linkedin.com/in/paulo-gomes-14165b33a/)
+- Email: pauloacg2.0@gmail.com
 
 ## 🙏 Agradecimentos
 
